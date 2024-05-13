@@ -11,9 +11,11 @@ Arrests - This dataset provides a comprehensive overview of law enforcement arre
 2. Frequencies of different arrest charge types over the years.
 
 Hypothesis 1 - Most crimes happen during the summer months.
+
 Observation : This line graph illustrates the number of crimes reported each month over several years, with the overall trend denoted by a continuous line. The highest crime count in a month for an year is clearly marked by a red dot. As we can notice, most years have higher crimes during the summer months (June - September).
 
 Hypothesis 2 - Theft-related crimes are more frequent on weekends compared to weekdays.
+
 Observation : The bar chart compares the frequency of theft-related crimes occurring on weekdays versus weekends. It categorizes offenses such as theft, robbery, burglary, and motor vehicle theft, providing a clear visual representation of when these crimes are more likely to happen. The blue bar represents the total count of theft-related crimes reported on weekdays, while the orange bar represents the count for weekends. From the graph, it is clear that thefts are more likely to occur during the weekdays.
 
 ## Machine Learning Model
